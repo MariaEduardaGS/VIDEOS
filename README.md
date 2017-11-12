@@ -1,7 +1,9 @@
 # VIDEOS
 
 Questões dos videos.
+
 [LISTA 4.1-LAÇO CONTADO]
+
 3- Implemente um programa que imprima na saída os números de 300 a 400 (inclusive) que são múltiplos de 8, separados por espaço.
 
 7- Implemente um programa que recebe um valor inteiro positivo U. Em seguida o programa deve escrever os termos da sequência descrita abaixo, separando os termos por espaço, iniciando do primeiro termo até o U-ésimo termo.
